@@ -2,7 +2,7 @@
 A Pure CSS Image Hover Effects Examples.
 
 ## About This Project
-
+In this ' image hover '  project 10 different pure css ' images hover effects ' included which is very helpful for web designer.
 
 ### Screen Shot
 
